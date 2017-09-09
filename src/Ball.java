@@ -2,7 +2,7 @@ import java.awt.*;
 
 public class Ball {
 
-	public static Color ballColor = new Color(0, 0, 0);
+	public static Color ballColor = new Color(1, 0, 0);
 
 	public static int standartBallRadius = 6;
 	private int radius;
