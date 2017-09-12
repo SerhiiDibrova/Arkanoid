@@ -1,7 +1,7 @@
 import java.awt.*;
 
 public class Ball {
-
+// zminu cho i rozrobuv
 	public static Color ballColor = new Color(0, 0, 0);
 
 	public static int standartBallRadius = 6;
